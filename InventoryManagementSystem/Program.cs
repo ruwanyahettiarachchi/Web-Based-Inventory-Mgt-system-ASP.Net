@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using InventoryManagementSystem.Data;
+using InventoryManagementSystem.Models; // Your namespace where InventoryDbContext is
 
 namespace InventoryManagementSystem
 {
@@ -8,15 +8,18 @@ namespace InventoryManagementSystem
 		public static void Main(string[] args)
 		{
 			var builder = WebApplication.CreateBuilder(args);
+			var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+			// Register InventoryDbContext with MySQL
+			builder.Services.AddDbContext<InventoryDbContext>(options =>
+				options.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 36))) // change version as needed
+			);
+
+			// Keep your MVC services
+			builder.Services.AddControllersWithViews();
 
 			// Add services to the container.
 			builder.Services.AddControllersWithViews();
-
-
-			// Add Entity Framework
-			builder.Services.AddDbContext<InventoryContext>(options =>
-				options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
-
 
 			var app = builder.Build();
 

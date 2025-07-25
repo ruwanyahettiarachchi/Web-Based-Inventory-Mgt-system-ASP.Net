@@ -26,12 +26,76 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\New folder\SLIIT\SLIIT Local\C#_tutorials\Web-Based-Inventory-Mgt-system-ASP.Net\InventoryManagementSystem
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Report/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Sales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Sales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Sales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Sales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Sales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/New folder/SLIIT/SLIIT Local/C\#_tutorials/Web-Based-Inventory-Mgt-system-ASP.Net/InventoryManagementSystem/Views/Shared/Error.cshtml]
