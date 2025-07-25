@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\InventoryDbContext.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\InventoryDbContext.cs",
+              "RelativeToolTip": "Models\\InventoryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:04:52.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:49:55.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:47:51.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:46:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:45:47.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T04:15:14.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+D:\New folder\SLIIT\SLIIT Local\C#_tutorials\Web-Based-Inventory-Mgt-system-ASP.Net\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.AssemblyReference.cache
+D:\New folder\SLIIT\SLIIT Local\C#_tutorials\Web-Based-Inventory-Mgt-system-ASP.Net\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\SLIIT\SLIIT Local\C#_tutorials\Web-Based-Inventory-Mgt-system-ASP.Net\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+D:\New folder\SLIIT\SLIIT Local\C#_tutorials\Web-Based-Inventory-Mgt-system-ASP.Net\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+D:\New folder\SLIIT\SLIIT Local\C#_tutorials\Web-Based-Inventory-Mgt-system-ASP.Net\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\New folder\SLIIT\SLIIT Local\C#_tutorials\Web-Based-Inventory-Mgt-system-ASP.Net\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\SLIIT\SLIIT Local\C#_tutorials\Web-Based-Inventory-Mgt-system-ASP.Net\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cache
+D:\New folder\SLIIT\SLIIT Local\C#_tutorials\Web-Based-Inventory-Mgt-system-ASP.Net\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cs
