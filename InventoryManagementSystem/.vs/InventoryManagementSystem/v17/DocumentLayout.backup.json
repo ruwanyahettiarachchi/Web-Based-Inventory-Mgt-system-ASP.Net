@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\salesreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:models\\salesreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +27,44 @@
       "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\salesreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:models\\salesreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EED55589-EC97-4CF3-A1B0-C4C583B91F5D}|InventoryManagementSystem.csproj|d:\\new folder\\sliit\\sliit local\\c#_tutorials\\web-based-inventory-mgt-system-asp.net\\inventorymanagementsystem\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,45 +87,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T07:57:00.504Z",
+              "WhenOpened": "2025-08-25T10:25:21.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Sales\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Sales\\Index.cshtml",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Sales\\Index.cshtml",
-              "RelativeToolTip": "Views\\Sales\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T07:55:44.827Z",
+              "WhenOpened": "2025-07-25T05:38:16.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABsAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "Views\\Report\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T07:54:40.716Z",
+              "WhenOpened": "2025-07-25T05:32:06.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:29:57.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:49:55.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:45:47.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:25:05.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:24:12.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SalesReportViewModel.cs",
               "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\SalesReportViewModel.cs",
               "RelativeDocumentMoniker": "Models\\SalesReportViewModel.cs",
@@ -125,51 +198,59 @@
               "RelativeToolTip": "Models\\SalesReportViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T05:54:57.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T05:54:57.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T05:38:16.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Report\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Report\\Index.cshtml",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Report\\Index.cshtml",
-              "RelativeToolTip": "Views\\Report\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T05:32:06.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T07:54:40.716Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ReportController.cs",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\ReportController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\ReportController.cs",
-              "RelativeToolTip": "Controllers\\ReportController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T05:29:57.524Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sales\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T07:55:44.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T07:57:00.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T07:59:33.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "SalesController.cs",
               "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\SalesController.cs",
               "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
@@ -177,37 +258,11 @@
               "RelativeToolTip": "Controllers\\SalesController.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T05:26:27.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T05:26:27.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T05:24:12.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T05:25:05.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "InventoryDbContext.cs",
               "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\InventoryDbContext.cs",
               "RelativeDocumentMoniker": "Models\\InventoryDbContext.cs",
@@ -219,19 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:49:55.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Sale.cs",
               "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Sale.cs",
               "RelativeDocumentMoniker": "Models\\Sale.cs",
@@ -243,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -255,19 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T04:45:47.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\New folder\\SLIIT\\SLIIT Local\\C#_tutorials\\Web-Based-Inventory-Mgt-system-ASP.Net\\InventoryManagementSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
